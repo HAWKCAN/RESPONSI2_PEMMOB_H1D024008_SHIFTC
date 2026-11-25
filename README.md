@@ -125,7 +125,7 @@ flutter run
 
 ## Video Penjelasan
 
-Link video: [[Isi link video]](https://youtu.be/Yt_X6c9ATE0)
+Link video: [[Penjelasan]](https://youtu.be/Yt_X6c9ATE0)
 
 ## Dependensi
 
