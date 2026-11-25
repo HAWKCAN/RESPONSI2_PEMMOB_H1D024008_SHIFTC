@@ -104,13 +104,13 @@ Contoh alur saat pengguna mencari kota: View memanggil `LocationViewModel.search
 
 ### 1. Layar Cuaca (Home)
 
-![Layar Cuaca](screenshots/home.png)
+![Layar Cuaca](screenshots/Cuaca.png)
 
 Layar ini menampilkan nama kota yang dipilih, ikon dan suhu saat ini, serta kondisi cuaca. Di bawahnya ada kartu informasi tambahan (kelembapan, angin, suhu terasa seperti, curah hujan, dan peluang hujan), lalu perkiraan 7 hari ke depan. Saat data dimuat, layar menampilkan indikator loading. Jika gagal, layar menampilkan pesan error dengan tombol coba lagi.
 
 ### 2. Layar Cari Lokasi (Search)
 
-![Layar Cari Lokasi](screenshots/search.png)
+![Layar Cari Lokasi](screenshots/Cari.png)
 
 Layar ini berisi kolom pencarian kota, daftar hasil, dan tombol bintang untuk menyimpan kota sebagai favorit. Jika belum pernah mencari, layar menampilkan daftar Favorit. Memilih kota akan membuka cuacanya di layar Cuaca.
 
